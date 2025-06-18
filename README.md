@@ -67,7 +67,7 @@ FastAPI reçoit les événements GitHub via POST sur :
 
 ### Auteur
 
-Développé par **Adama Coulibaly**
+Développé par **Adama Coulibaly**(AI/ML Aspiring)
 GitHub: [startlingadama](https://github.com/startlingadama)
 
 ---
